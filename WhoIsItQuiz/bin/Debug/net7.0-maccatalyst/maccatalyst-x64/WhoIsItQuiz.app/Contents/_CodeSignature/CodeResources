@@ -12,6 +12,10 @@
 		<data>
 		Py602DNzTIMZuQPVRQviCcbSnsA=
 		</data>
+		<key>Resources/MauiInfo.plist</key>
+		<data>
+		iEtuUGCV6JM3gxS/pO33swhmpp8=
+		</data>
 		<key>Resources/MonoTouchDebugConfiguration.txt</key>
 		<data>
 		oowkf1sL6T19nanXUObgmuayWqM=
@@ -1321,7 +1325,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			setxSFYPWLR2Jq1SolZ0Fl8t5lqcMHSP0fR9zAAy3n4=
+			ZXfljwXFn8n6YEY7fX8MR+8NduG5ExEgLnsT8D9YvI4=
 			</data>
 		</dict>
 		<key>MonoBundle/WhoIsItQuiz.pdb</key>
@@ -1378,6 +1382,13 @@
 			<key>hash2</key>
 			<data>
 			nNqiHjPnJLMPdPTzgUtWziKGRTzP71o1sYVc9T906kw=
+			</data>
+		</dict>
+		<key>Resources/MauiInfo.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tx0KXqEC+DvcCGyogQTEQWHcCWJYYqH24NtPwhpQEjo=
 			</data>
 		</dict>
 		<key>Resources/MonoTouchDebugConfiguration.txt</key>
